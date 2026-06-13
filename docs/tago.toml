@@ -1,0 +1,10 @@
+title       = "be"
+baseURL     = "https://betterexplained-cli.tamnd.com/"
+description = "Read BetterExplained math and programming articles"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/betterexplained-cli"
